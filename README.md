@@ -22,6 +22,6 @@ Dalam algoritma ini, akan dilakukan pemberian class atau label, atau sering dise
 
 Terlihat jelas bahwa dalam dataset memiliki 15 class yang tersebar. Apabila dilakukan proses training terhadap algoritma SOM, akan didapatkan gambar seperti dibawah ini
 
-![](./hasil.JPG)
+![](./result.JPG)
 
 Dimana scatter kuning adalah dataset, dan scatter berwarna merah adalah hasil centroid yang didapatkan untuk menggambarkan masing-masing class dari 1 hingga 15.
